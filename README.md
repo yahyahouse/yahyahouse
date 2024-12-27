@@ -10,7 +10,7 @@ I am a graduate of the University of Singaperbangsa, Karawang, majoring in Infor
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yahyahouse&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yahyahouse&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyahouse&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyahouse&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
